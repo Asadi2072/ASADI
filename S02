@@ -1,4 +1,4 @@
-# Logs bdsyd
+# Logs bdsydt
 logs
 *.log
 npm-debug.log*
