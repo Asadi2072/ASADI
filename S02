@@ -1,4 +1,4 @@
-g# Logs
+fg# Logs
 logs
 *.log
 npm-debug.log*
