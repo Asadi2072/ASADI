@@ -1,4 +1,4 @@
-hkg# Logs
+nhkg# Logs
 logs
 *.log
 npm-debug.log*
